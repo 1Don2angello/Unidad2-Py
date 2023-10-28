@@ -1,0 +1,4 @@
+nombre: angel
+matricula: 21393149
+edad: 19
+carrera: tsu

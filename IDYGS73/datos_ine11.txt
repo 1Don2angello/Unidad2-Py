@@ -1,0 +1,10 @@
+nombre_con_nombres: angel
+ap_paterno: agnel
+ap_materno: perez
+domicilio: jkkk
+clave_elector: kkk
+clave_curp: kkk
+fecha_nacimiento: 12 14 2003
+seccion_electoral: 12345
+anio_registro: 1234
+a_vigencia: 123
